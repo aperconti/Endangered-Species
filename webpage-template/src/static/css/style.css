@@ -1,0 +1,19 @@
+body {
+    background-color: #DEEDCF;
+}
+
+.container-fluid {
+    background-color: #DEEDCF;
+}
+
+#map {
+    min-height: 600px;
+    background: #ddd;
+    outline: 0;
+}
+
+.info {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}

@@ -1,0 +1,383 @@
+State,Lat,Long,Organism Type,Species Name,Federal Status,Unit Name
+WI,44.5,-89.5,Bird,Kirtland's Warbler,Endangered,St. Croix WMD
+TX,31.0,-100.0,Bird,Attwater's Greater Prairie-chicken,Endangered,Attwater Prairie Chicken NWR
+TX,31.0,-100.0,Bird,Attwater's Greater Prairie-chicken,Endangered,Aransas NWR
+TX,31.0,-100.0,Bird,Black-capped Vireo,Endangered,Santa Ana NWR
+TX,31.0,-100.0,Bird,Black-capped Vireo,Endangered,Balcones Canyonlands NWR
+TX,31.0,-100.0,Bird,Brown Pelican,Endangered,Santa Ana NWR
+TX,31.0,-100.0,Bird,Brown Pelican,Endangered,Aransas NWR
+TX,31.0,-100.0,Bird,Brown Pelican,Endangered,San Bernard NWR
+TX,31.0,-100.0,Bird,Brown Pelican,Endangered,Laguna Atascosa NWR
+TX,31.0,-100.0,Bird,Brown Pelican,Endangered,Lower Rio Grande Valley NWR
+TX,31.0,-100.0,Bird,Brown Pelican,Endangered,Big Boggy NWR
+TX,31.0,-100.0,Bird,Cactus Ferruginous Pygmy-owl,Endangered,Lower Rio Grande Valley NWR
+TX,31.0,-100.0,Bird,Cactus Ferruginous pygmy-owl,Endangered,Laguna Atascosa NWR
+TX,31.0,-100.0,Bird,Eskimo Curlew,Endangered,Lower Rio Grande Valley NWR
+TX,31.0,-100.0,Bird,Golden-cheeked Warbler,Endangered,Balcones Canyonlands NWR
+TX,31.0,-100.0,Bird,Golden-cheeked Warbler,Endangered,Lower Rio Grande Valley NWR
+TX,31.0,-100.0,Bird,Golden-cheeked Warbler,Endangered,Santa Ana NWR
+TX,31.0,-100.0,Bird,Least Tern (Interior),Endangered,Buffalo Lake NWR (TX)
+TX,31.0,-100.0,Bird,Least Tern (Interior),Endangered,Hagerman NWR
+TX,31.0,-100.0,Bird,Northern Aplomado Falcon,Endangered,Laguna Atascosa NWR
+TX,31.0,-100.0,Bird,Northern Aplomado Falcon,Threatened,Lower Rio Grande Valley NWR
+TX,31.0,-100.0,Bird,Northern Aplomado Falcon,Endangered,Santa Ana NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,Brazoria NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,Aransas NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,Anahuac NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,Big Boggy NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,Santa Ana NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,Texas Point NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,San Bernard NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,McFaddin NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,Laguna Atascosa NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,Lower Rio Grande Valley NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,Hagerman NWR
+TX,31.0,-100.0,Bird,Piping Plover,Threatened,Trinity River NWR
+TX,31.0,-100.0,Bird,Whooping Crane,Endangered,Aransas NWR
+SD,44.5,-100.0,Bird,Least Tern (Interior),Endangered,Sand Lake NWR
+SD,44.5,-100.0,Bird,Least Tern (Interior),Endangered,Sand Lake WMD
+SD,44.5,-100.0,Bird,Piping Plover,Threatened,Lacreek NWR
+SD,44.5,-100.0,Bird,Piping Plover,Threatened,Sand Lake WMD
+SD,44.5,-100.0,Bird,Piping Plover,Threatened,Sand Lake NWR
+SD,44.5,-100.0,Bird,Whooping Crane,Endangered,Lake Andes WMD
+SD,44.5,-100.0,Bird,Whooping Crane,Endangered,Lake Andes NWR
+RI,41.700001,-71.5,Bird,Piping Plover,Threatened,Sachuest Point NWR
+RI,41.700001,-71.5,Bird,Piping Plover,Threatened,Trustom Pond NWR
+RI,41.700001,-71.5,Bird,Piping Plover,Threatened,Ninigret NWR
+RI,41.700001,-71.5,Bird,Roseate Tern,Endangered,Ninigret NWR
+RI,41.700001,-71.5,Bird,Roseate Tern,Endangered,Trustom Pond NWR
+OR,44.0,-120.5,Bird,Brown Pelican,Endangered,Siletz Bay NWR
+OR,44.0,-120.5,Bird,Brown Pelican,Endangered,Three Arch Rocks NWR
+OR,44.0,-120.5,Bird,Brown Pelican,Endangered,Oregon Islands NWR
+OR,44.0,-120.5,Bird,Brown Pelican,Endangered,Bandon Marsh NWR
+OR,44.0,-120.5,Bird,Marbled Murrelet,Threatened,Cape Meares NWR
+OR,44.0,-120.5,Bird,Northern Spotted Owl,Threatened,Cape Meares NWR
+OR,44.0,-120.5,Bird,Western Snowy Plover (Pacific coast population),Threatened,Bandon Marsh NWR
+NY,43.0,-75.0,Bird,Piping Plover,Threatened,Elizabeth A. Morton NWR
+NY,43.0,-75.0,Bird,Piping Plover,Threatened,Amagansett NWR
+NY,43.0,-75.0,Bird,Piping Plover,Endangered,Target Rock NWR
+NY,43.0,-75.0,Bird,Roseate Tern,Endangered,Elizabeth A. Morton NWR
+NE,41.5,-100.0,Bird,Least Tern (Interior),Endangered,Boyer Chute NWR
+NE,41.5,-100.0,Bird,Least Tern (Interior),Endangered,Rainwater Basin WMD
+NE,41.5,-100.0,Bird,Piping Plover,Threatened,Rainwater Basin WMD
+NE,41.5,-100.0,Bird,Whooping Crane,Endangered,Rainwater Basin WMD
+NE,41.5,-100.0,Bird,Whooping Crane,Endangered,Valentine NWR
+NE,41.5,-100.0,Bird,Whooping Crane,Endangered,Fort Niobrara NWR
+KS,38.5,-98.0,Bird,Least Tern (Interior),Endangered,Marais des Cygnes NWR
+KS,38.5,-98.0,Bird,Least Tern (Interior),Endangered,Quivira NWR
+KS,38.5,-98.0,Bird,Piping Plover,Threatened,Quivira NWR
+KS,38.5,-98.0,Bird,Piping Plover,Threatened,Marais des Cygnes NWR
+KS,38.5,-98.0,Bird,Whooping Crane,Endangered,Quivira NWR
+KS,38.5,-98.0,Bird,Whooping Crane,Endangered,Kirwin NWR
+MS,33.0,-90.0,Bird,Least Tern (Interior),Endangered,Mathews Brake NWR
+MS,33.0,-90.0,Bird,Least Tern (Interior),Endangered,Hillside NWR
+MS,33.0,-90.0,Bird,Least Tern (Interior),Endangered,Yazoo NWR
+MS,33.0,-90.0,Bird,Least Tern Interior,Endangered,St. Catherine Creek NWR
+MS,33.0,-90.0,Bird,Mississippi Sandhill Crane,Endangered,Mississippi Sandhill Crane NWR
+MS,33.0,-90.0,Bird,Red-cockaded Woodpecker,Endangered,Noxubee NWR
+MS,33.0,-90.0,Bird,Red-cockaded Woodpecker,Endangered,Mississippi Sandhill Crane NWR
+IL,40.0,-89.0,Bird,Least Tern (Interior),Endangered,Cypress Creek NWR
+CT,41.599998,-72.699997,Bird,Roseate Tern,Endangered,Stewart B. McKinney NWR
+AR,34.799999,-92.199997,Bird,Least Tern (Interior),Endangered,Bald Knob NWR
+AR,34.799999,-92.199997,Bird,Least Tern (Interior),Endangered,Overflow NWR
+AR,34.799999,-92.199997,Bird,Piping Plover,Threatened,Bald Knob NWR
+AR,34.799999,-92.199997,Bird,Red-cockaded Woodpecker,Endangered,Felsenthal NWR
+IN,40.273502,-86.126976,Bird,Least Tern (Interior),Endangered,Patoka River NWR
+MO,38.573935999999996,-92.60376,Bird,Least Tern (Interior),Endangered,Big Muddy National Fish and Wildlife Refuge
+MO,38.573935999999996,-92.60376,Bird,Least Tern (Interior),Endangered,Squaw Creek NWR
+MO,38.573935999999996,-92.60376,Bird,Piping Plover,Endangered,Clarence Cannon NWR
+FL,27.994402,-81.760254,Bird,Audubon's Crested Caracara,Threatened,Arthur R. Marshall Loxahatchee NWR
+FL,27.994402,-81.760254,Bird,Everglade Snail Kite,Endangered,Arthur R. Marshall Loxahatchee NWR
+FL,27.994402,-81.760254,Bird,Everglade Snail Kite,Endangered,Florida Panther NWR
+FL,27.994402,-81.760254,Bird,Everglade Snail Kite,Endangered,Lake Woodruff NWR
+FL,27.994402,-81.760254,Bird,Florida Scrub Jay,Threatened,Lake Woodruff NWR
+FL,27.994402,-81.760254,Bird,Florida Scrub Jay,Threatened,Hobe Sound NWR
+FL,27.994402,-81.760254,Bird,Florida Scrub Jay,Threatened,Lower Suwannee NWR
+FL,27.994402,-81.760254,Bird,Florida Scrub Jay,Threatened,Merritt Island NWR
+FL,27.994402,-81.760254,Bird,Florida Scrub Jay,Threatened,Lake Wales Ridge NWR
+FL,27.994402,-81.760254,Bird,Piping Plover,Threatened,Cedar Keys NWR
+FL,27.994402,-81.760254,Bird,Piping Plover,Threatened,Merritt Island NWR
+FL,27.994402,-81.760254,Bird,Piping Plover,Threatened,Lower Suwannee NWR
+FL,27.994402,-81.760254,Bird,Piping Plover,Threatened,Hobe Sound NWR
+FL,27.994402,-81.760254,Bird,Piping Plover,Threatened,St. Marks NWR
+FL,27.994402,-81.760254,Bird,Piping Plover,Threatened,St. Vincent NWR
+FL,27.994402,-81.760254,Bird,Red-cockaded Woodpecker,Endangered,St. Marks NWR
+FL,27.994402,-81.760254,Bird,Red-cockaded Woodpecker,Endangered,Florida Panther NWR
+FL,27.994402,-81.760254,Bird,Roseate Tern,Threatened,Merritt Island NWR
+FL,27.994402,-81.760254,Bird,Roseate Tern,Threatened,Key West NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Ten Thousand Islands NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Pine Island NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Lake Woodruff NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Hobe Sound NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,"J. N. ""Ding"" Darling NWR"
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Florida Panther NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,National Key Deer Refuge
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Merritt Island NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Lower Suwannee NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,St. Marks NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,St. Johns NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,St. Vincent NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Pinellas NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Caloosahatchee NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Pelican Island NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Crocodile Lake NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Chassahowitzka NWR
+FL,27.994402,-81.760254,Bird,Wood Stork,Endangered,Arthur R. Marshall Loxahatchee NWR
+ME,45.367584,-68.97216800000001,Bird,Piping Plover,Threatened,Rachel Carson NWR
+ME,45.367584,-68.97216800000001,Bird,Piping Plover,Threatened,Pond Island NWR
+ME,45.367584,-68.97216800000001,Bird,Roseate Tern,Endangered,Rachel Carson NWR
+ME,45.367584,-68.97216800000001,Bird,Roseate Tern,Endangered,Petit Manan NWR
+ME,45.367584,-68.97216800000001,Bird,Roseate Tern,Endangered,Pond Island NWR
+MI,44.182204999999996,-84.50683599999999,Bird,Kirtland's Warbler,Endangered,Kirtlands Warbler WMA
+GA,33.247875,-83.441162,Bird,Piping Plover,Threatened,Blackbeard Island NWR
+GA,33.247875,-83.441162,Bird,Piping Plover,Threatened,Wolf Island NWR
+GA,33.247875,-83.441162,Bird,Piping Plover,Threatened,Wassaw NWR
+GA,33.247875,-83.441162,Bird,Red-cockaded Woodpecker,Endangered,Piedmont NWR
+GA,33.247875,-83.441162,Bird,Wood Stork,Endangered,Bond Swamp NWR
+GA,33.247875,-83.441162,Bird,Wood Stork,Endangered,Wolf Island NWR
+GA,33.247875,-83.441162,Bird,Wood Stork,Endangered,Harris Neck NWR
+GA,33.247875,-83.441162,Bird,Wood Stork,Endangered,Wassaw NWR
+GA,33.247875,-83.441162,Bird,Wood Stork,Endangered,Banks Lake NWR
+GA,33.247875,-83.441162,Bird,Wood Stork,Endangered,Blackbeard Island NWR
+HI,19.741754999999998,-155.844437,Bird,Akiapolaau,Endangered,Hakalau Forest NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaii Akepa,Endangered,Hakalau Forest NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaii Creeper,Endangered,Hakalau Forest NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Common Moorhen,Endangered,Hanalei NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Common Moorhen,Endangered,Huleia NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Common Moorhen,Endangered,James Campbell NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Common Moorhen,Endangered,Kakahaia NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Coot,Endangered,Kakahaia NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Coot,Endangered,James Campbell NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Coot,Endangered,Huleia NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Coot,Endangered,Hanalei NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Coot,Endangered,Pearl Harbor NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian coot,Endangered,Kealia Pond NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Duck,Endangered,Pearl Harbor NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Duck,Endangered,Hanalei NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Duck,Endangered,Hakalau Forest NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Duck,Endangered,Huleia NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Duck,Endangered,James Campbell NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Duck,Endangered,Kakahaia NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Goose,Endangered,Hakalau Forest NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Hawk,Endangered,Hakalau Forest NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Stilt,Endangered,Kakahaia NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Stilt,Endangered,James Campbell NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Stilt,Endangered,Huleia NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Stilt,Endangered,Hanalei NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian Stilt,Endangered,Pearl Harbor NWR
+HI,19.741754999999998,-155.844437,Bird,Hawaiian stilt,Endangered,Kealia Pond NWR
+HI,19.741754999999998,-155.844437,Bird,Laysan Duck,Endangered,Hawaiian Islands NWR
+HI,19.741754999999998,-155.844437,Bird,Laysan Finch,Endangered,Hawaiian Islands NWR
+HI,19.741754999999998,-155.844437,Bird,Nihoa Finch,Endangered,Hawaiian Islands NWR
+HI,19.741754999999998,-155.844437,Bird,Nihoa Millerbird,Endangered,Hawaiian Islands NWR
+HI,19.741754999999998,-155.844437,Bird,Oahu Elepaio,Endangered,Oahu Forest NWR
+HI,19.741754999999998,-155.844437,Bird,'O'u (honeycreeper),Endangered,Hakalau Forest NWR
+AK,66.160507,-153.36914099999998,Bird,Spectacled Eider,Endangered,Yukon Delta NWR
+AK,66.160507,-153.36914099999998,Bird,Spectacled Eider,Endangered,Arctic NWR
+AK,66.160507,-153.36914099999998,Bird,Spectacled Eider,Endangered,Alaska Maritime NWR
+AK,66.160507,-153.36914099999998,Bird,Spectacled Eider,Endangered,Togiak NWR
+AK,66.160507,-153.36914099999998,Bird,Steller's Eider,Threatened,Arctic NWR
+AK,66.160507,-153.36914099999998,Bird,Steller's Eider,Threatened,Alaska Maritime NWR
+AK,66.160507,-153.36914099999998,Bird,Steller's Eider,Threatened,Alaska Peninsula NWR
+AK,66.160507,-153.36914099999998,Bird,Steller's Eider,Threatened,Becharof NWR
+AK,66.160507,-153.36914099999998,Bird,Steller's Eider,Threatened,Izembek NWR
+AK,66.160507,-153.36914099999998,Bird,Steller's Eider,Threatened,Kodiak NWR
+AK,66.160507,-153.36914099999998,Bird,Steller's Eider,Threatened,Selawik NWR
+AK,66.160507,-153.36914099999998,Bird,Steller's Eider,Threatened,Togiak NWR
+AK,66.160507,-153.36914099999998,Bird,Steller's Eider,Threatened,Yukon Delta NWR
+TN,35.860119,-86.660156,Bird,Least Tern (Interior),Endangered,Chickasaw NWR
+TN,35.860119,-86.660156,Bird,Least Tern (Interior),Endangered,Cross Creeks NWR
+TN,35.860119,-86.660156,Bird,Least Tern (Interior),Endangered,Lower Hatchie NWR
+TN,35.860119,-86.660156,Bird,Least Tern (Interior),Endangered,Lake Isom NWR
+VA,37.926868,-78.024902,Bird,Piping Plover,Threatened,Back Bay NWR
+VA,37.926868,-78.024902,Bird,Piping Plover,Threatened,Fisherman Island NWR
+NJ,39.833851,-74.871826,Bird,Piping Plover,Threatened,Edwin B. Forsythe NWR
+ND,47.650589000000004,-100.437012,Bird,Eskimo Curlew,Endangered,North Dakota WMA
+ND,47.650589000000004,-100.437012,Bird,Interior Least Tern,Endangered,North Dakota WMA
+ND,47.650589000000004,-100.437012,Bird,Least Tern (Interior),Endangered,Lake Nettie NWR
+ND,47.650589000000004,-100.437012,Bird,Least Tern (Interior),Endangered,Long Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Least Tern (Interior),Endangered,Audubon WMD
+ND,47.650589000000004,-100.437012,Bird,Least Tern (Interior),Endangered,Audubon NWR
+ND,47.650589000000004,-100.437012,Bird,Mountain Plover,Proposed,North Dakota WMA
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Buffalo Lake NWR (ND)
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Audubon WMD
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Cottonwood Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Crosby WMD
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Devils Lake WMD
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,J. Clark Salyer NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,J. Clark Salyer WMD
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Lake Alice NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Kulm WMD
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Lake Ilo NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Arrowwood NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Chase Lake Prairie Project WMD
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Audubon NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Long Lake WMD
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Lake Nettie NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Long Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Lostwood NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Lostwood WMD
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Willow Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Wintering River NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,North Dakota WMA
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Upper Souris NWR
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Chase Lake Prairie Project WMD
+ND,47.650589000000004,-100.437012,Bird,Piping Plover,Threatened,Hutchinson Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Wintering River NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Willow Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Lords Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Lake Nettie NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Lake Zahl NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Long Lake WMD
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Crosby WMD
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Long Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Rabb Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,School Section Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Upper Souris NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Audubon NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Chase Lake Prairie Project WMD
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Lake Ilo NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,J. Clark Salyer WMD
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Kulm WMD
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,J. Clark Salyer NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Devils Lake WMD
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Cottonwood Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Buffalo Lake NWR (ND)
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Audubon WMD
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Chase Lake NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,North Dakota WMA
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Lostwood NWR
+ND,47.650589000000004,-100.437012,Bird,Whooping Crane,Endangered,Chase Lake Prairie Project WMD
+MN,46.39241,-94.63623,Bird,Piping Plover,Threatened,Fergus Falls WMD
+MN,46.39241,-94.63623,Bird,Piping Plover,Threatened,Morris WMD
+OK,36.084621000000006,-96.921387,Bird,Black-capped Vireo,Endangered,Wichita Mountains Wildlife Refuge
+OK,36.084621000000006,-96.921387,Bird,Least Tern (Interior),Endangered,Tishomingo NWR
+OK,36.084621000000006,-96.921387,Bird,Least Tern (Interior),Endangered,Optima NWR
+OK,36.084621000000006,-96.921387,Bird,Least Tern (Interior),Endangered,Washita NWR
+OK,36.084621000000006,-96.921387,Bird,Least Tern (Interior),Endangered,Deep Fork NWR
+OK,36.084621000000006,-96.921387,Bird,Least Tern (Interior),Endangered,Sequoyah NWR
+OK,36.084621000000006,-96.921387,Bird,Least Tern (Interior),Endangered,Salt Plains NWR
+OK,36.084621000000006,-96.921387,Bird,Least Tern (Interior),Endangered,Little River NWR
+OK,36.084621000000006,-96.921387,Bird,Piping Plover,Threatened,Tishomingo NWR
+OK,36.084621000000006,-96.921387,Bird,Whooping Crane,Endangered,Optima NWR
+OK,36.084621000000006,-96.921387,Bird,Whooping Crane,Endangered,Salt Plains NWR
+OK,36.084621000000006,-96.921387,Bird,Whooping Crane,Endangered,Washita NWR
+MT,46.96526,-109.53369099999999,Bird,Least Tern (Interior),Endangered,Charles M. Russell NWR
+MT,46.96526,-109.53369099999999,Bird,Piping Plover,Threatened,Bowdoin NWR
+MT,46.96526,-109.53369099999999,Bird,Piping Plover,Threatened,Charles M. Russell NWR
+MT,46.96526,-109.53369099999999,Bird,Piping Plover,Threatened,Benton Lake NWR
+MT,46.96526,-109.53369099999999,Bird,Piping Plover,Threatened,Medicine Lake WMD
+MT,46.96526,-109.53369099999999,Bird,Piping Plover,Threatened,Medicine Lake NWR
+MT,46.96526,-109.53369099999999,Bird,Whooping Crane,Endangered,Medicine Lake NWR
+MT,46.96526,-109.53369099999999,Bird,Whooping Crane,Endangered,Medicine Lake WMD
+MT,46.96526,-109.53369099999999,Bird,Whooping Crane,Endangered,Red Rock Lakes NWR
+WA,47.751076,-120.74013500000001,Bird,Brown Pelican,Endangered,Grays Harbor NWR
+WA,47.751076,-120.74013500000001,Bird,Brown Pelican,Endangered,Willapa NWR
+WA,47.751076,-120.74013500000001,Bird,Western Snowy Plover (Pacific coast population),Threatened,Willapa NWR
+UT,39.41922,-111.95068400000001,Bird,Least Tern (Interior),Endangered,Colorado River WMA
+UT,39.41922,-111.95068400000001,Bird,Southwestern Willow Flycatcher,Endangered,Colorado River WMA
+UT,39.41922,-111.95068400000001,Bird,Whooping Crane,Endangered,Ouray NWR
+CO,39.113014,-105.35888700000001,Bird,Whooping Crane,Endangered,Monte Vista NWR
+CO,39.113014,-105.35888700000001,Bird,Whooping Crane,Endangered,Alamosa NWR
+AL,32.31823,-86.902298,Bird,Piping Plover,Threatened,Bon Secour NWR
+AL,32.31823,-86.902298,Bird,Wood Stork,Endangered,Choctaw NWR
+IA,42.032973999999996,-93.58154300000001,Bird,Piping Plover,Endangered,Iowa WMD
+NM,34.307144,-106.01806599999999,Bird,Least Tern (Interior),Endangered,Bitter Lake NWR
+NM,34.307144,-106.01806599999999,Bird,Southwestern Willow Flycatcher,Endangered,Bosque del Apache NWR
+NM,34.307144,-106.01806599999999,Bird,Southwestern Willow Flycatcher,Endangered,Maxwell NWR
+NM,34.307144,-106.01806599999999,Bird,Southwestern Willow Flycatcher,Endangered,Sevilleta NWR
+NM,34.307144,-106.01806599999999,Bird,Whooping Crane,Endangered,Bosque del Apache NWR
+NM,34.307144,-106.01806599999999,Bird,Whooping Crane,Endangered,Las Vegas NWR
+NM,34.307144,-106.01806599999999,Bird,Whooping Crane,Endangered,Sevilleta NWR
+SC,33.836082,-81.16372700000001,Bird,Bachman's Warbler,Endangered,Ernest F. Hollings ACE Basin NWR
+SC,33.836082,-81.16372700000001,Bird,Bachman's Warbler,Endangered,Cape Romain NWR
+SC,33.836082,-81.16372700000001,Bird,Piping Plover,Threatened,Cape Romain NWR
+SC,33.836082,-81.16372700000001,Bird,Piping Plover,Threatened,Pinckney Island NWR
+SC,33.836082,-81.16372700000001,Bird,Piping Plover,Threatened,Waccamaw NWR
+SC,33.836082,-81.16372700000001,Bird,Piping Plover,Threatened,Waccamaw NWR
+SC,33.836082,-81.16372700000001,Bird,Piping Plover,Threatened,Tybee NWR
+SC,33.836082,-81.16372700000001,Bird,Red-cockaded Woodpecker,Endangered,Ernest F. Hollings ACE Basin NWR
+SC,33.836082,-81.16372700000001,Bird,Red-cockaded Woodpecker,Endangered,Santee NWR
+SC,33.836082,-81.16372700000001,Bird,Red-cockaded Woodpecker,Endangered,Carolina Sandhills NWR
+SC,33.836082,-81.16372700000001,Bird,Wood Stork,Endangered,Ernest F. Hollings ACE Basin NWR
+SC,33.836082,-81.16372700000001,Bird,Wood Stork,Endangered,Waccamaw NWR
+SC,33.836082,-81.16372700000001,Bird,Wood Stork,Endangered,Pinckney Island NWR
+SC,33.836082,-81.16372700000001,Bird,Wood Stork,Endangered,Cape Romain NWR
+AZ,34.048927,-111.09373500000001,Bird,Bald Eagle,Threatened,Havasu NWR
+AZ,34.048927,-111.09373500000001,Bird,Bald Eagle,Threatened,Bill Williams River NWR
+AZ,34.048927,-111.09373500000001,Bird,Bald Eagle,Threatened,Kofa National Wildlife Refuge
+AZ,34.048927,-111.09373500000001,Bird,Brown Pelican,Endangered,Bill Williams River NWR
+AZ,34.048927,-111.09373500000001,Bird,Cactus Ferruginous pygmy-owl,Endangered,Cabeza Prieta NWR
+AZ,34.048927,-111.09373500000001,Bird,Cactus Ferruginous pygmy-owl,Endangered,Buenos Aires NWR
+AZ,34.048927,-111.09373500000001,Bird,Cactus Ferruginous pygmy-owl,Endangered,San Bernardino NWR
+AZ,34.048927,-111.09373500000001,Bird,"Clapper Rail, Yuma",Endangered,Bill Williams River NWR
+AZ,34.048927,-111.09373500000001,Bird,Masked Bobwhite,Endangered,Buenos Aires NWR
+AZ,34.048927,-111.09373500000001,Bird,Southwestern Willow Flycatcher,Endangered,Bill Williams River NWR
+MA,42.407211,-71.382439,Bird,Piping Plover,Threatened,Parker River NWR
+MA,42.407211,-71.382439,Bird,Piping Plover,Threatened,Monomoy NWR
+MA,42.407211,-71.382439,Bird,Piping Plover,Threatened,Nantucket NWR
+MA,42.407211,-71.382439,Bird,Piping Plover,Threatened,Mashpee NWR
+MA,42.407211,-71.382439,Bird,Roseate Tern,Endangered,Monomoy NWR
+MA,42.407211,-71.382439,Bird,Roseate Tern,Endangered,Mashpee NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Brown Pelican,Endangered,San Diego Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Brown Pelican,Endangered,Guadalupe-Nipomo Dunes NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Brown Pelican,Endangered,Seal Beach NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Brown Pelican,Endangered,Tijuana Slough NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Brown Pelican,Endangered,Salinas River NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Brown Pelican,Endangered,Sonny Bono Salton Sea NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Brown Pelican,Endangered,Don Edwards San Francisco Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Brown Pelican,Endangered,San Pablo Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Brown Pelican,Endangered,Farallon NWR
+CA,36.778259000000006,-119.41793100000001,Bird,California Condor,Endangered,Bitter Creek NWR
+CA,36.778259000000006,-119.41793100000001,Bird,California Condor,Endangered,Blue Ridge NWR
+CA,36.778259000000006,-119.41793100000001,Bird,California Condor,Endangered,Hopper Mountain NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Clapper Rail, California",Endangered,San Pablo Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Clapper Rail, California",Endangered,Don Edwards San Francisco Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Clapper Rail, California",Endangered,Farallon NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Clapper Rail, Light-footed",Endangered,Tijuana Slough NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Clapper Rail, Light-footed",Endangered,San Diego Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Clapper Rail, Light-footed",Endangered,Seal Beach NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Clapper Rail, Yuma",Endangered,Sonny Bono Salton Sea NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Coastal California Gnatcatcher,Threatened,San Diego NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Golden-cheeked Warbler,Endangered,Farallon NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Least Bell's Vireo,Endangered,San Diego Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Least Bell's Vireo,Endangered,Tijuana Slough NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Least Bell's Vireo,Endangered,San Diego NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Least Tern, California",Endangered,Guadalupe-Nipomo Dunes NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Least Tern, California",Endangered,San Diego Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Least Tern, California",Endangered,Tijuana Slough NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Least Tern, California",Endangered,Seal Beach NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Least Tern, California",Endangered,Don Edwards San Francisco Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,"Least Tern, California",Endangered,San Pablo Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Southwestern Willow Flycatcher,Endangered,San Diego NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Western Snowy Plover (Pacific coast population),Threatened,Humboldt Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Western Snowy Plover (Pacific coast population),Threatened,Tijuana Slough NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Western Snowy Plover (Pacific coast population),Threatened,San Diego Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Western Snowy Plover (Pacific coast population),Threatened,Guadalupe-Nipomo Dunes NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Western Snowy Plover (Pacific coast population),Threatened,Farallon NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Western Snowy Plover (Pacific coast population),Threatened,Seal Beach NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Western Snowy Plover (Pacific coast population),Threatened,San Pablo Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Western Snowy Plover (Pacific coast population),Threatened,Don Edwards San Francisco Bay NWR
+CA,36.778259000000006,-119.41793100000001,Bird,Western Snowy Plover (Pacific coast population),Threatened,Salinas River NWR
+ID,44.068203000000004,-114.742043,Bird,Whooping Crane,Endangered,Bear Lake NWR
+ID,44.068203000000004,-114.742043,Bird,Whooping Crane,Endangered,Grays Lake NWR
+WY,43.07597,-107.290283,Bird,Whooping Crane,Endangered,National Elk Refuge
+WY,43.07597,-107.290283,Bird,Whooping Crane,Endangered,Cokeville Meadows NWR
+NC,35.782169,-80.79345699999999,Bird,Piping Plover,Threatened,Currituck NWR
+NC,35.782169,-80.79345699999999,Bird,Piping Plover,Threatened,Pea Island NWR
+NC,35.782169,-80.79345699999999,Bird,Piping Plover,Endangered,Cedar Island NWR
+NC,35.782169,-80.79345699999999,Bird,Red-cockaded Woodpecker,Endangered,Pee Dee NWR
+NC,35.782169,-80.79345699999999,Bird,Red-cockaded Woodpecker,Endangered,Alligator River NWR
+LA,30.39183,-92.3291,Bird,Brown Pelican,Endangered,Big Branch Marsh NWR
+LA,30.39183,-92.3291,Bird,Brown Pelican,Endangered,Bayou Sauvage NWR
+LA,30.39183,-92.3291,Bird,Brown Pelican,Endangered,Delta NWR
+LA,30.39183,-92.3291,Bird,Brown Pelican,Endangered,Shell Keys NWR
+LA,30.39183,-92.3291,Bird,Brown Pelican,Endangered,Breton NWR
+LA,30.39183,-92.3291,Bird,Piping Plover,Threatened,Bayou Sauvage NWR
+LA,30.39183,-92.3291,Bird,Piping Plover,Threatened,Breton NWR
+LA,30.39183,-92.3291,Bird,Piping Plover,Endangered,Big Branch Marsh NWR
+LA,30.39183,-92.3291,Bird,Piping Plover,Endangered,Delta NWR
+LA,30.39183,-92.3291,Bird,Piping Plover,Endangered,Shell Keys NWR
+LA,30.39183,-92.3291,Bird,Red-cockaded Woodpecker,Endangered,Upper Ouachita NWR
+LA,30.39183,-92.3291,Bird,Red-cockaded Woodpecker,Endangered,Big Branch Marsh NWR
+LA,30.39183,-92.3291,Bird,Red-cockaded Woodpecker,Endangered,D'Arbonne NWR
