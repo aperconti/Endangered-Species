@@ -90,11 +90,21 @@ One major issue while creating the map layers for this project was getting accur
 state can have an easily calculated population density, it is not consistant between areas even within a state. States such as Claifornia or Florida may have large 
 populations and a high density, that does not mean each part of the state is equal, and this provides a limitation for the dataset, especially when combined with 
 another roadblock we encountered. While we were able to gather data for endangered/threatened bird species by state, birds do not care about state lines, and will
-regularly cross them, either temporarily for migratory purposes or for longer term movement for any number of other reasons. Another significant challenge was
-managerial, as the project repository was not well managed by the repository owner, and little and very avoidable mistakes often led to issues down the road, losing
-time and energy for everyone else involved. This could have been a much cleaner and more streamlined process if any number of procautions had been followed. 
+regularly cross them, either temporarily for migratory purposes or for longer term movement for any number of other reasons.
 
 ## Final Product and Conclusion
-![Image of map](https://imgur.com/a/wRvBtaH)
+Our final takeaways from this project are that more analysis is necessary to draw any firm conclusions about this topic. The dataset has some limitations due to the
+nature of the topic, but also from time constrictions of incorporating additiondal data to get more granular with our maps. By potentially adding lat/lng coordinates
+of the wildlife refuges listed, we could possibly have discovered some regional diferences not captured at the state level. This would be useful to determine if the
+endangered or threatened species numbers were more impacted by rural or urban populations within a state, instead of just the topline state density numbers. Another
+thing that proved to be inconclusive because of a lack of time and analysis was whether having more wildlife refuges was a sign of more endangered species or less, or
+if there simply isn't any connection at all. Diving more into any one of these specific areas could have uncovered much more information with more time or a more 
+narrow focus.
 
-![Image of barChart](https://imgur.com/a/sP2ZB82)
+![Image of map](webpage-template/src/static/images/endangeredBirdPlantMap.png)
+
+![Image of barChart](webpage-template/src/static/images/endangeredBarChart.png)
+
+#### Contributors
+Autum Perconti, Audric Perger, Hermela Mekonnen, Michelle Hamilton
+
