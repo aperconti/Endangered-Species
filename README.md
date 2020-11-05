@@ -103,7 +103,7 @@ narrow focus.
 
 ![Image of map](webpage-template/src/static/images/navbar.gif)
 
-![Image of barChart](webpage-template/src/static/images/cluster markers.gif)
+![Image of barChart](webpage-template/src/static/images/clusterMarkers.gif)
 
 #### Contributors
 Autum Perconti, Audric Perger, Hermela Mekonnen, Michelle Hamilton
